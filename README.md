@@ -10,4 +10,4 @@ Future Improvements:<br>
 I would like to add an iris around the pupil to make the eyes a little more realistic.  I would also like to add eyelids to the eyes so that they close when the mouse goes below the screen boundaries.
 
 Licensing Information:<br>
-This code is part of the MIT xPRO program and is subject to their licensing agreements.
+This code is part of the MIT xPRO program and is subject to the MIT License.
