@@ -1,7 +1,7 @@
 # Eye Movement Excercise
 
 Project Description:<br>
-This project sets up to eyes, in which the pupils of the eyes follow the movement of the mouse.  It showcases the skills of build the eyes in CSS, and using a For Loop to make the eyes move together.
+This project sets up to eyes, in which the pupils of the eyes follow the movement of the mouse.  It showcases the skills of building the eyes in CSS, and using a For Loop to make the eyes move together.
 
 How to run:<br>
 Pull the three parts of the code (html, js, and css) and get them into one file.  The code should run as soon as html is loaded onto browser.  To see the code in action you ca also go to squed.guthub.io/eyes.html.
